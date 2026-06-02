@@ -1,0 +1,60 @@
+Patient Waitlist Analysis Dashboard | Power BI
+
+## Project Overview
+
+This project focuses on analyzing healthcare patient waitlist data using Power BI to identify trends, monitor performance, and support data-driven decision-making.
+The dashboard provides a comprehensive view of patient waitlists across different specialties, age groups, and case types, enabling stakeholders to understand 
+demand patterns and resource allocation requirements.
+
+## Objectives
+
+* Analyze patient waitlist volumes across medical specialties.
+* Compare current waitlist trends with the previous year's performance.
+* Identify specialties experiencing the highest patient backlog.
+* Monitor monthly variations in waitlist numbers.
+* Provide actionable insights for operational planning and capacity management.
+
+## Data Preparation & Transformation
+
+* Cleaned and transformed raw healthcare datasets using Power Query.
+* Handled missing values and standardized data formats.
+* Combined multiple tables to create a unified data model.
+* Performed data validation and quality checks to ensure reporting accuracy.
+
+## Dashboard Features
+
+* Specialty-wise patient waitlist analysis.
+* Monthly and yearly trend comparison.
+* Current month vs previous year same-month performance tracking.
+* Age profile and case type segmentation.
+* Interactive filters and drill-down capabilities for detailed analysis.
+
+## DAX Measures Used
+
+* CALCULATE()
+* SUM()
+* AVERAGE()
+* MEDIAN()
+* SWITCH()
+* IF()
+* ISBLANK()
+
+## Key Insights
+
+* Identified an approximately 11% year-over-year increase in patient waitlist volume.
+* Highlighted specialties with consistently high waiting lists requiring operational attention.
+* Enabled comparison of historical and current performance trends.
+* Improved visibility into patient demand patterns across healthcare services.
+
+## Tools & Technologies
+
+* Power BI
+* DAX
+* Power Query
+* Microsoft Excel
+* Data Modeling & Data Visualization
+
+## Business Impact
+
+The dashboard helps healthcare administrators monitor patient waitlists effectively, identify bottlenecks, optimize resource allocation, 
+and make informed decisions to improve patient service delivery and reduce waiting times.
